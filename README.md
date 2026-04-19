@@ -35,17 +35,23 @@ Adobe Analytics • Data Layer Design • Event Tracking • User Behavior Analy
 
 End-to-end RAG pipeline using hybrid retrieval, query transformation, and re-ranking to improve answer relevance and reduce hallucinations.
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/chayannaskar26/employee-chatbot)
+
 ---
 
 ### 📄 ATS Resume Reviewer (LLM-powered)
 
 AI tool that evaluates resumes, provides structured feedback, and improves ATS compatibility with PII masking.
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/chayannaskar26/ats-resume-reviewer)
+
 ---
 
 ### 💻 LLM Code Review Assistant
 
 Analyzes code for bugs, performance issues, and readability with structured scoring and suggestions.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/chayannaskar26/ai-code-reviewer)
 
 ---
 
